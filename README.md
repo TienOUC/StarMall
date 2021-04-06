@@ -1,4 +1,4 @@
-::link [演示地址](http://mall.dodolo.top)
+::link:: [演示地址](http://mall.dodolo.top)
 
 # starmall
 
