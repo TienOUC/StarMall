@@ -2,7 +2,7 @@
   "name": "starmall",
   "version": "1.0.0",
   "description": "starmall",
-  "author": "tien",
+  "author": "Tien",
   "private": true,
   "scripts": {
     "dev": "node build/dev-server.js",
