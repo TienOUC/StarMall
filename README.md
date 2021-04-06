@@ -1,13 +1,5 @@
-<iframe>
-    width="100%" 
-    height="450" 
-    src="https://www.bilibili.com/video/BV1Rb4y1S7bF/" 
-    scrolling="no" 
-    border="0" 
-    frameborder="no" 
-    framespacing="0" 
-    allowfullscreen="true">
-</iframe>
+::link[演示地址](http://mall.dodolo.top)
+
 # starmall
 
 > StarMall
